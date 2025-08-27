@@ -30,7 +30,7 @@ I created a data entry for a Property management company in Portharcourt Locus C
 
 **PIZZA SALES REPORT**
 
-![image](WhatsApp Image 2025-08-27 at 10.51.14_64facdcc.jpg)
+![image](WhatsApp Image 2025-08-27 at 10.51.12_5b0c100b.jpg)
 
 So part of my journey was that i went online and found a dataset where i analyze the data using both SQL to querry the data and Powerbi to vizualize the data. 
 
