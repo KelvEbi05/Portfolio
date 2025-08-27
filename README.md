@@ -28,13 +28,13 @@ I created a data entry for a Property management company in Portharcourt Locus C
 
 [Read More](https://www.linkedin.com/posts/kelvin-ebimoghan-a2b0a9275_recently-did-this-automated-data-entry-form-activity-7216430498863017986-vL6G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMcfIMBMqiRglRXfk1s8EqWDEDMyjq8_1U)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**PIZZA SALES REPORT**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+So part of my journey was that i went online and found a dataset where i analyze the data using both SQL to querry the data and Powerbi to vizualize the data. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/posts/kelvin-ebimoghan-a2b0a9275_dataanalytics-datascience-activity-7102165150463369217-R4_-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMcfIMBMqiRglRXfk1s8EqWDEDMyjq8_1U)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
