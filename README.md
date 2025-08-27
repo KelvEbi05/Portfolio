@@ -37,13 +37,13 @@ So part of my journey was that i went online and found a dataset where i analyze
 
 [Read More](https://www.linkedin.com/posts/kelvin-ebimoghan-a2b0a9275_dataanalytics-datascience-activity-7102165150463369217-R4_-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMcfIMBMqiRglRXfk1s8EqWDEDMyjq8_1U)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Data cleaning and Data Visualization with Python.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+For this after i saw the exciting tool called python i decided to use it to do some analysis and visualization  
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+[Read More](https://www.linkedin.com/posts/kelvin-ebimoghan-a2b0a9275_another-day-as-a-data-analyst-on-this-project-activity-7113657887071121408-fH0a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMcfIMBMqiRglRXfk1s8EqWDEDMyjq8_1U)
 
 
 ## CONTACT DETAILS
