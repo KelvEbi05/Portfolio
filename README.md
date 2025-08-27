@@ -69,7 +69,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/kelvin-ebimoghan-a2b0a9275">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
