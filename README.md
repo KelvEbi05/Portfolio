@@ -39,7 +39,7 @@ So part of my journey was that i went online and found a dataset where i analyze
 
 **Data cleaning and Data Visualization with Python.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](1696028204087.jpg)
 
 For this after i saw the exciting tool called python i decided to use it to do some analysis and visualization  
 
