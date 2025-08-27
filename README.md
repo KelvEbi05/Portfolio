@@ -6,7 +6,9 @@ Hello! I'm Ebimoghan Kelvin 🤓, a data analyst and  data educator with a passi
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*I teach datat analysis at Bytemark where we train services for businesses and mentor aspiring analysts.*
+*I love data, so i am very interest in what i can do with data per-time. 
+i a interested in how i can improve, use, and predict with data
+I teach datat analysis at Bytemark where we train services for businesses and mentor aspiring analysts.*
 
 
 **- ✅ Data Analytics, Data Manupulation, Data Transformation, Data Visualization.**
