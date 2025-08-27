@@ -53,11 +53,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="kelvinebimoghan05@gmail.com">kelvinebimoghan05@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 814-784-2953</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -70,10 +70,6 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     <tr>
       <td>🌐</td>
       <td><a href="www.linkedin.com/in/kelvin-ebimoghan-a2b0a9275">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
