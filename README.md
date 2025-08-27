@@ -21,11 +21,10 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Data entry form for a Property Management Company.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
+I created a data entry for a Property management company in Portharcourt Locus Classicus. I used ms excel to create an automated form to help them track their tenants rent status per time.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
