@@ -9,7 +9,7 @@ Hello! I'm Ebimoghan Kelvin 🤓, a data analyst and  data educator with a passi
 *I teach datat analysis at Bytemark where we train services for businesses and mentor aspiring analysts.*
 
 
-**- ✅ Data Analytics .**
+**- ✅ Data Analytics, Data Manupulation, Data Transformation, Data Visualization.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Staff Training & Development.**
@@ -65,7 +65,7 @@ For this after i saw the exciting tool called python i decided to use it to do s
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="KELVIN EBIMOGHAN.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
