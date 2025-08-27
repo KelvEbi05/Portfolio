@@ -22,11 +22,11 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Data entry form for a Property Management Company.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](WhatsApp Image 2025-08-27 at 10.51.14_64facdcc.jpg)
 
 I created a data entry for a Property management company in Portharcourt Locus Classicus. I used ms excel to create an automated form to help them track their tenants rent status per time.
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/posts/kelvin-ebimoghan-a2b0a9275_recently-did-this-automated-data-entry-form-activity-7216430498863017986-vL6G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMcfIMBMqiRglRXfk1s8EqWDEDMyjq8_1U)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
