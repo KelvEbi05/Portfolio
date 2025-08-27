@@ -10,9 +10,11 @@ Hello! I'm Ebimoghan Kelvin 🤓, a data analyst and  data educator with a passi
 
 
 **- ✅ Data Analytics, Data Manupulation, Data Transformation, Data Visualization.**
+
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Staff Training & Development.**
+
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
 
