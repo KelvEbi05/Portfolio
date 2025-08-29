@@ -30,8 +30,8 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 i analyzed a Hospital ER data set using powerbi transforming some  qualitative data into some quantitative reports
 
 [You can click to see the interactive Dashboard i posted on PowerbiService](https://https://app.powerbi.com/groups/me/reports/ddb67afb-450b-4e76-a3c1-6514ea740a57/403e659cab15a6ce3eb8?experience=power-bi)
-Or 
-[Read More](https://www.linkedin.com/posts/kelvin-ebimoghan-a2b0a9275_as-is-it-with-visiting-a-service-center-one-activity-7367147987409481731-Cldr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMcfIMBMqiRglRXfk1s8EqWDEDMyjq8_1U)
+
+[Read More on LinkedIN](https://www.linkedin.com/posts/kelvin-ebimoghan-a2b0a9275_as-is-it-with-visiting-a-service-center-one-activity-7367147987409481731-Cldr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMcfIMBMqiRglRXfk1s8EqWDEDMyjq8_1U)
 
 
 **Data entry form for a Property Management Company.**
