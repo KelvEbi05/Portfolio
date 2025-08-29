@@ -24,6 +24,15 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 ## MY PORTFOLIO 
 
 *A glimpse of some of the projects I've been working on.*
+**Hospital ER Dashboard Report.**
+![image](WhatsApp Image 2025-08-27 at 10.51.14_64facdcc.jpg)
+
+i analyzed a Hospital ER data set using powerbi transforming some  qualitative data into some quantitative reports
+
+[You can click to see the interactive Dashboard i posted on PowerbiService](https://https://app.powerbi.com/groups/me/reports/ddb67afb-450b-4e76-a3c1-6514ea740a57/403e659cab15a6ce3eb8?experience=power-bi)
+Or 
+[Read More](https://www.linkedin.com/posts/kelvin-ebimoghan-a2b0a9275_recently-did-this-automated-data-entry-form-activity-7216430498863017986-vL6G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMcfIMBMqiRglRXfk1s8EqWDEDMyjq8_1U)
+
 
 **Data entry form for a Property Management Company.**
 ![image](WhatsApp Image 2025-08-27 at 10.51.14_64facdcc.jpg)
