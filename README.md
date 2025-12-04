@@ -18,7 +18,8 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 **- ✅ Staff Training & Development.**
 
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
-![image](Screenshot 2025-08-29 114645.png)
+!WhatsApp Image 2025-10-21 at 19.32.47_c2fad471.jpg
+!WhatsApp Image 2025-10-21 at 19.32.51_364a3a3f.jpg
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
